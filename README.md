@@ -8,3 +8,7 @@ This repository provides a set of tools for **Distributed Acoustic Sensing (DAS)
 3. **Semblance Analysis** for velocity picking and coherence detection.
 
 These tools are designed for large-scale datasets and can be easily extended for applications such as **human activity detection**, **event classification**.
+
+## Todos:
+Add data example[synthetic, real].
+Add usage example.
