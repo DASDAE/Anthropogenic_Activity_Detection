@@ -10,5 +10,5 @@ This repository provides a set of tools for **Distributed Acoustic Sensing (DAS)
 These tools are designed for large-scale datasets and can be easily extended for applications such as **human activity detection**, **event classification**.
 
 ## Todos:
-1. Add data example[synthetic, real].Add usage example.
-2. list necessary installation.
+1. Add data example[synthetic, real].Add a usage example.
+2. List the necessary installation.
