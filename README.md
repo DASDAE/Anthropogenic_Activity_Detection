@@ -1,4 +1,4 @@
-# Anthropogenic_Activity_Detection
+# Anthropogenic Activity Detection
 Detect man-made activities [walking, biking] along a fiber.
 
 This repository provides a set of tools for **Distributed Acoustic Sensing (DAS)** and seismic data processing, focusing on three major tasks:
