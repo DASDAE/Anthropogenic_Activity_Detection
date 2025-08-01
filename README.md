@@ -7,4 +7,4 @@ This repository provides a set of tools for **Distributed Acoustic Sensing (DAS)
 2. **Radon Transform** and **Inverse Radon Transform** for velocity-domain filtering and event separation.
 3. **Semblance Analysis** for velocity picking and coherence detection.
 
-These tools are designed for large-scale datasets and can be easily extended for applications such as **human activity detection**, **event classification**, and **velocity model building**.
+These tools are designed for large-scale datasets and can be easily extended for applications such as **human activity detection**, **event classification**.
